@@ -1,0 +1,37 @@
+/* width */
+.links::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+
+/* Track */
+.links::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+.links::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+.links::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.link{
+  display: block;
+  position: relative;
+}
+.link::before{
+  content:"";
+  position: absolute;
+  right: 0;
+  top: 100%;
+  width: 0;
+  height: 2px;
+  background-color: #b80000;
+  transition-duration: 0.3s;
+}
+.link:hover::before{
+  width: 100%;
+}

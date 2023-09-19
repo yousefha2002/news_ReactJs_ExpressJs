@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Cairo', sans-serif !important;
+}
+body{
+  background-color: #fff;
+}
+
+a{
+  text-decoration: none;
+  color:inherit;
+}
+
+.header-title::before{
+  content:"";
+  position: absolute;
+  top:0;
+  right:0;
+  width:6px;
+  height:100%;
+  background-color:#b80000;
+}
+
+.header-title.black::before{
+  background-color:#000000;
+}
+
+.date_design::before{
+  content:"";
+  position: absolute;
+  top:0;
+  right:0;
+  width:4px;
+  height:100%;
+  background-color:#b80000;
+}
