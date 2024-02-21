@@ -32,7 +32,7 @@ Here are some screenshots from Magalaty:
 ![Screenshot 1](https://my-portofolio-liard.vercel.app/_next/image?url=%2Fimages%2Fnew1.jpg&w=640&q=75)
 ![Screenshot 2](https://my-portofolio-liard.vercel.app/_next/image?url=%2Fimages%2Fnew3.png&w=640&q=75)
 ![Screenshot 3](https://my-portofolio-liard.vercel.app/_next/image?url=%2Fimages%2Fnew6.png&w=640&q=75)
-![Screenshot 4](https://my-portofolio-liard.vercel.app/_next/imageurl=%2Fimages%2Fnew2.png&w=640&q=75)
+![Screenshot 4](https://my-portofolio-liard.vercel.app/_next/image?url=%2Fimages%2Fnew2.png&w=640&q=75)
 
 
 ### Frontend Technologies and Skills
